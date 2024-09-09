@@ -8,3 +8,4 @@ Wifi hacking bash script synthesize
 --------------------
 3. WPS
 -----------------
+4. use REAVER in py
